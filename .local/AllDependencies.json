@@ -20605,9 +20605,9 @@
     "restore": {
       "projectUniqueName": "REF2022_10",
       "projectName": "REF2022_10",
-      "projectPath": "F:\\Git\\ReFrameWork\\.local",
+      "projectPath": "F:\\Git\\REF\\.local",
       "packagesPath": "C:\\Users\\Ja\\.nuget\\packages\\",
-      "outputPath": "F:\\Git\\ReFrameWork\\.local"
+      "outputPath": "F:\\Git\\REF\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {

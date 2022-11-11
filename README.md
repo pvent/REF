@@ -1,6 +1,6 @@
 ### Adjusted version of UiPath framework ###
-'SingleExecution' config based value to easily switch between queue item based processes and single excution 
-Mail notification (SMTP deafult) added to set transaction status (SE & BE)
+*'SingleExecution' config based value to easily switch between queue item based processes and single excution 
+*Mail notification (SMTP deafult) added to set transaction status (SE & BE)
 
 ### Documentation is included in the Documentation folder ###
 

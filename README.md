@@ -1,3 +1,7 @@
+### Adjusted version of UiPath framework ###
+'SingleExecution' config based value to easily switch between queue item based processes and single excution 
+Mail notification (SMTP deafult) added to set transaction status (SE & BE)
+
 ### Documentation is included in the Documentation folder ###
 
 [REFrameWork Documentation](https://github.com/UiPath/ReFrameWork/blob/master/Documentation/REFramework%20documentation.pdf)

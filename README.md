@@ -1,4 +1,5 @@
 ### Adjusted version of UiPath framework ###
+* Config set as global variable using naming (prefix for global variables to be used 'gb_'
 * 'SingleExecution' config based value to easily switch between queue item based processes and single excution 
 * Mail notification (SMTP deafult) added to set transaction status (SE & BE)
 

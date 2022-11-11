@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "On81GRMTiFLxSQs+f5/hr0F2jNcucE9QUZVCFjl6SDzL/gySPiuSVKaMiOWbGtPBQZRVyed8Djp2y2/IK0o7dw==",
+  "dgSpecHash": "bSUjfdiXHH8CA5dnFCt43fGtnOyuPU48PT9eBU4BPhYhYZhQXvbdxwfIBCI/4Yo7j7CZEeNvoCamCX2sz8wdmg==",
   "success": true,
-  "projectFilePath": "F:\\Git\\REF\\.local\\",
+  "projectFilePath": "F:\\Git\\ReFrameWork\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Ja\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\Ja\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
